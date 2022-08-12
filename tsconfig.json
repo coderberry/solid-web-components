@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "allowJs": true,
+    "allowNonTsExtensions": true,
+    "experimentalDecorators": true,
+    "jsx": "preserve",
+    "jsxImportSource": "solid-js",
+    "module": "ESNext",
+    "moduleResolution": "Node",
+    "sourceMap": true,
+    "paths": {
+      "~/*": [
+        "*"
+      ]
+    }
+  }
+}

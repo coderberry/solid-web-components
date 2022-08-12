@@ -1,0 +1,12 @@
+@import '../../colors/src/colors.scss';
+
+.button {
+  background-color: var(--color-accent);
+  color: white;
+  border: none;
+  padding: 1rem 2rem;
+  font-size: 1.25rem;
+  border-radius: 5px;
+  text-decoration: none;
+  cursor: pointer;
+}

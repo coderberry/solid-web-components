@@ -1,0 +1,23 @@
+{
+  "name": "@backlight-dev/orbit-components.solidjs-l6r4knb2",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve Y0geF6K9PPj2udbuMm8C --open"
+  },
+  "devDependencies": {
+    "babel-preset-solid": "*"
+  },
+  "dependencies": {
+    "solid-js": "*",
+    "solid-styled-components": "*"
+  },
+  "babel": {
+    "presets": [
+      "solid"
+    ]
+  }
+}
